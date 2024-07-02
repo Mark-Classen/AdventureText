@@ -1,0 +1,14 @@
+c:\Users\hp\Desktop\Adventure\AdventureConsole\bin\Debug\net8.0\AdventureConsole.exe
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.AssemblyInfo.cs
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.dll
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\refint\AdventureConsole.dll
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.pdb
+C:\Users\hp\Desktop\Adventure\AdventureConsole\bin\Debug\net8.0\AdventureConsole.deps.json
+C:\Users\hp\Desktop\Adventure\AdventureConsole\bin\Debug\net8.0\AdventureConsole.runtimeconfig.json
+C:\Users\hp\Desktop\Adventure\AdventureConsole\bin\Debug\net8.0\AdventureConsole.dll
+C:\Users\hp\Desktop\Adventure\AdventureConsole\bin\Debug\net8.0\AdventureConsole.pdb
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\AdventureConsole.genruntimeconfig.cache
+C:\Users\hp\Desktop\Adventure\AdventureConsole\obj\Debug\net8.0\ref\AdventureConsole.dll
